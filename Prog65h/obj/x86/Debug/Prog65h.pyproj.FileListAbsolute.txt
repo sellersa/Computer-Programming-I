@@ -1,0 +1,14 @@
+C:\Users\sellers.a\Desktop\Hello\Prog65h\bin\Debug\Prog65h.exe.config
+C:\Users\sellers.a\Desktop\Hello\Prog65h\bin\Debug\Prog65h.exe
+C:\Users\sellers.a\Desktop\Hello\Prog65h\bin\Debug\Prog65h.dll
+C:\Users\sellers.a\Desktop\Hello\Prog65h\bin\Debug\IronPython.dll
+C:\Users\sellers.a\Desktop\Hello\Prog65h\bin\Debug\IronPython.Modules.dll
+C:\Users\sellers.a\Desktop\Hello\Prog65h\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\sellers.a\Desktop\Hello\Prog65h\bin\Debug\Microsoft.Scripting.dll
+C:\Users\sellers.a\Desktop\Hello\Prog65h\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\sellers.a\Desktop\Hello\Prog65h\bin\Debug\IronPython.xml
+C:\Users\sellers.a\Desktop\Hello\Prog65h\bin\Debug\IronPython.Modules.xml
+C:\Users\sellers.a\Desktop\Hello\Prog65h\obj\x86\Debug\Prog65h.pyprojResolveAssemblyReference.cache
+C:\Users\sellers.a\Desktop\Hello\Prog65h\obj\x86\Debug\Prog65h.MainForm.resources
+C:\Users\sellers.a\Desktop\Hello\Prog65h\obj\x86\Debug\Prog65h.pyproj.GenerateResource.Cache
+C:\Users\sellers.a\Desktop\Hello\Prog65h\obj\x86\Debug\Prog65h.exe
